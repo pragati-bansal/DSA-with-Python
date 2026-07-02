@@ -2,7 +2,7 @@
 
 Welcome to my Data Structures & Algorithms repository.
 
-This repository documents my journey of learning DSA in Python 
+This repository documents my journey of mastering Data Structures & Algorithms in Python through pattern-based learning and LeetCode practice.
 
 ---
 
